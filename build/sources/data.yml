@@ -5,9 +5,9 @@
 # Reference documentation: https://github.com/cncf/landscape2/blob/main/docs/config/data.yml
 
 categories:
-  - name: Category 1
+  - name: Tazama Project Participants
     subcategories:
-      - name: Subcategory 1-1
+      - name: System Integrators
         items:
           - name: Item 1
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
@@ -29,7 +29,7 @@ categories:
             description: This is the description of item 3
             homepage_url: https://cncf.io
             logo: cncf.svg
-      - name: Subcategory 1-2
+      - name: Consulting / Staffing Firms
         items:
           - name: Item 4
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
@@ -44,9 +44,9 @@ categories:
             homepage_url: https://cncf.io
             logo: cncf.svg
             repo_url: https://github.com/cncf/landscape2
-  - name: Category 2
+  - name: Tazama Project Adopters
     subcategories:
-      - name: Subcategory 2-1
+      - name: In Development
         items:
           - name: Item 6
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
@@ -68,14 +68,52 @@ categories:
             description: This is the description of item 8
             homepage_url: https://cncf.io
             logo: cncf.svg
-      - name: Subcategory 2-2
+  - name: Tazama Project Funders
+    subcategories:
+      - name: Charities
         items:
-          - item:
+          - name: Item 6
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-            description: This is the description of item 9
+            description: This is the description of item 6
             homepage_url: https://cncf.io
             logo: cncf.svg
-            name: Item 9
+            project: graduated
             repo_url: https://github.com/cncf/landscape2
             twitter: https://twitter.com/CloudNativeFdn
+          - name: Item 7
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+            description: This is the description of item 7
+            homepage_url: https://cncf.io
+            logo: cncf.svg
+            project: sandbox
+            repo_url: https://github.com/cncf/landscape2
+            twitter: https://twitter.com/CloudNativeFdn
+          - name: Item 8
+            description: This is the description of item 8
+            homepage_url: https://cncf.io
+            logo: cncf.svg
+  - name: Related Organizations
+    subcategories:
+      - name: Related Organizations
+        items:
+          - name: Item 6
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+            description: This is the description of item 6
+            homepage_url: https://cncf.io
+            logo: cncf.svg
+            project: graduated
+            repo_url: https://github.com/cncf/landscape2
+            twitter: https://twitter.com/CloudNativeFdn
+          - name: Item 7
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+            description: This is the description of item 7
+            homepage_url: https://cncf.io
+            logo: cncf.svg
+            project: sandbox
+            repo_url: https://github.com/cncf/landscape2
+            twitter: https://twitter.com/CloudNativeFdn
+          - name: Item 8
+            description: This is the description of item 8
+            homepage_url: https://cncf.io
+            logo: cncf.svg
 
