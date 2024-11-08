@@ -10,16 +10,16 @@ You can check out how the generated landscapes look like by visiting the [CNCF l
 <br/>
 <table>
     <tr>
-        <td width="50%"><img src="docs/screenshots/landscape1.png?raw=true"></td>
-        <td width="50%"><img src="docs/screenshots/landscape2.png?raw=true"></td>
+        <td width="50%"><img src="docs/landscape1.png?raw=true"></td>
+        <td width="50%"><img src="docs/landscape2.png?raw=true"></td>
     </tr>
     <tr>
-        <td width="50%"><img src="docs/screenshots/landscape3.png?raw=true"></td>
-        <td width="50%"><img src="docs/screenshots/landscape4.png?raw=true"></td>
+        <td width="50%"><img src="docs/landscape3.png?raw=true"></td>
+        <td width="50%"><img src="docs/landscape4.png?raw=true"></td>
     </tr>
     <tr>
-        <td width="50%"><img src="docs/screenshots/landscape5.png?raw=true"></td>
-        <td width="50%"><img src="docs/screenshots/landscape6.png?raw=true"></td>
+        <td width="50%"><img src="docs/landscape5.png?raw=true"></td>
+        <td width="50%"><img src="docs/landscape6.png?raw=true"></td>
     </tr>
 </table>
 
