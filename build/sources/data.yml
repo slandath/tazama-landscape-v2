@@ -9,111 +9,85 @@ categories:
     subcategories:
       - name: System Integrators
         items:
-          - name: Item 1
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-            description: This is the description of item 1
-            homepage_url: https://cncf.io
-            logo: cncf.svg
-            project: graduated
-            repo_url: https://github.com/cncf/landscape2
-            twitter: https://twitter.com/CloudNativeFdn
-          - name: Item 2
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-            description: This is the description of item 2
-            homepage_url: https://cncf.io
-            logo: cncf.svg
-            project: sandbox
-            repo_url: https://github.com/cncf/landscape2
-            twitter: https://twitter.com/CloudNativeFdn
-          - name: Item 3
-            description: This is the description of item 3
-            homepage_url: https://cncf.io
-            logo: cncf.svg
+          - name: Infitx
+            crunchbase: https://www.crunchbase.com/organization/infitx
+            description: INFITX focuses on building and supporting equitable and inclusive financial services to help alleviate poverty and gender inequality.
+            homepage_url: https://infitx.com/
+            logo: infitx-logo.svg
+          - name: LexTego
+            crunchbase: https://www.crunchbase.com/organization/lextego
+            description: LexTego helps you to identify bad actors with a real-time transaction monitoring system, for fraud and anti-money laundering.
+            homepage_url: https://lextego.com/
+            logo: LexTego-logo.svg
+          - name: ThitsaWorks
+            crunchbase: https://www.crunchbase.com/organization/thitsaworks-solutions-myanmar-co-ltd 
+            description: ThitsaWorks drives financial equity and inclusion for the unbanked & underbanked in developing economies through its data-driven solutions.
+            homepage_url: https://www.thitsaworks.com/
+            twitter: https://twitter.com/thitsaworks
+            logo: thitsaworks-logo.svg
+          - name: PaySys Labs
+            crunchbase: https://www.crunchbase.com/organization/paysys-labs
+            description: Paysys Labs offers digital banking, CMS, financial, biometric, wealth, and merchant management system solutions.
+            homepage_url: https://www.paysyslabs.com/
+            twitter: https://twitter.com/paysyslabs
+            logo: paysys-logo.svg
+          - name: Sybrin
+            crunchbase: https://www.crunchbase.com/organization/sybrin
+            description: Sybrin a global technology company providing payment & information processing solutions for clearing houses, commercial banks & corporates.
+            homepage_url: https://www.sybrin.com/
+            logo: sybrin-logo-blue.svg
+          - name: WiredIn
+            description: WiredIn is an information technology company that provides software development, web designing, and website development services.
+            homepage_url: http://www.wiredin.rw/
+            logo: wiredin-logo.svg
+            twitter: https://twitter.com/wiredinrw
+            crunchbase: https://www.crunchbase.com/organization/wiredin 
       - name: Consulting / Staffing Firms
         items:
-          - name: Item 4
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-            description: This is the description of item 4
-            homepage_url: https://cncf.io
-            logo: cncf.svg
-            repo_url: https://github.com/cncf/landscape2
-            twitter: https://twitter.com/CloudNativeFdn
-          - name: Item 5
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-            description: This is the description of item 5
-            homepage_url: https://cncf.io
-            logo: cncf.svg
-            repo_url: https://github.com/cncf/landscape2
+          - name: Crosslake Technologies
+            homepage_url: http://www.crosslaketech.com/
+            logo: crosslake-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/crosslake-technologies
+          - name: ZeroTen Technologies
+            homepage_url: https://zerotenweb.com.ng/
+            logo: zeroten-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/zeroten-technologies
   - name: Tazama Project Adopters
     subcategories:
       - name: In Development
         items:
-          - name: Item 6
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-            description: This is the description of item 6
-            homepage_url: https://cncf.io
-            logo: cncf.svg
-            project: graduated
-            repo_url: https://github.com/cncf/landscape2
-            twitter: https://twitter.com/CloudNativeFdn
-          - name: Item 7
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-            description: This is the description of item 7
-            homepage_url: https://cncf.io
-            logo: cncf.svg
-            project: sandbox
-            repo_url: https://github.com/cncf/landscape2
-            twitter: https://twitter.com/CloudNativeFdn
-          - name: Item 8
-            description: This is the description of item 8
-            homepage_url: https://cncf.io
-            logo: cncf.svg
+          - name: BCEAO
+            description: BCEAO is an international public institution that issuing institute common to the member states of the West African Monetary Union (WAMU).
+            homepage_url: https://www.bceao.int/
+            logo: BCEAO-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/bceao
+          - name: COMESA
+            description: COMESA Institutions enhances regional integration in Eastern and Southern Africa through trade and development.
+            homepage_url: https://www.comesa.int
+            logo: comesa-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/comesa-institutions
   - name: Tazama Project Funders
     subcategories:
       - name: Charities
         items:
-          - name: Item 6
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-            description: This is the description of item 6
-            homepage_url: https://cncf.io
-            logo: cncf.svg
-            project: graduated
-            repo_url: https://github.com/cncf/landscape2
-            twitter: https://twitter.com/CloudNativeFdn
-          - name: Item 7
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-            description: This is the description of item 7
-            homepage_url: https://cncf.io
-            logo: cncf.svg
-            project: sandbox
-            repo_url: https://github.com/cncf/landscape2
-            twitter: https://twitter.com/CloudNativeFdn
-          - name: Item 8
-            description: This is the description of item 8
-            homepage_url: https://cncf.io
-            logo: cncf.svg
+          - name: Bill & Melinda Gates Foundation
+            description: Bill & Melinda Gates Foundation supports initiatives in education, world health and population, and community giving.
+            homepage_url: https://www.gatesfoundation.org
+            logo: bill-melinda-gates-foundation.svg
+            twitter: https://twitter.com/gatesfoundation
+            crunchbase: https://www.crunchbase.com/organization/bill-melinda-gates-foundation
   - name: Related Organizations
     subcategories:
       - name: Related Organizations
         items:
-          - name: Item 6
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-            description: This is the description of item 6
-            homepage_url: https://cncf.io
-            logo: cncf.svg
-            project: graduated
-            repo_url: https://github.com/cncf/landscape2
-            twitter: https://twitter.com/CloudNativeFdn
-          - name: Item 7
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-            description: This is the description of item 7
-            homepage_url: https://cncf.io
-            logo: cncf.svg
-            project: sandbox
-            repo_url: https://github.com/cncf/landscape2
-            twitter: https://twitter.com/CloudNativeFdn
-          - name: Item 8
-            description: This is the description of item 8
-            homepage_url: https://cncf.io
-            logo: cncf.svg
+          - name: AfricaNenda Foundation
+            homepage_url: https://www.africanenda.org/
+            logo: africanendalogo.svg
+            twitter: https://twitter.com/AfricaNenda
+            crunchbase: https://www.crunchbase.com/organization/africanenda
+          - name: Mojaloop Foundation
+            homepage_url: https://mojaloop.io/
+            logo: mojaloop-logo.svg
+            twitter: https://twitter.com/mojaloop
+            crunchbase: https://www.crunchbase.com/organization/mojaloop-foundation
 
