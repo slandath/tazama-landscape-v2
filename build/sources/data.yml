@@ -11,31 +11,33 @@ categories:
         items:
           - name: Infitx
             crunchbase: https://www.crunchbase.com/organization/infitx
-            description: This is the description of item 1
+            description: INFITX focuses on building and supporting equitable and inclusive financial services to help alleviate poverty and gender inequality.
             homepage_url: https://infitx.com/
             logo: infitx-logo.svg
           - name: LexTego
             crunchbase: https://www.crunchbase.com/organization/lextego
-            description: This is the description of item 2
+            description: LexTego helps you to identify bad actors with a real-time transaction monitoring system, for fraud and anti-money laundering.
             homepage_url: https://lextego.com/
             logo: LexTego-logo.svg
           - name: ThitsaWorks
             crunchbase: https://www.crunchbase.com/organization/thitsaworks-solutions-myanmar-co-ltd 
-            description: This is the description of item 3
+            description: ThitsaWorks drives financial equity and inclusion for the unbanked & underbanked in developing economies through its data-driven solutions.
             homepage_url: https://www.thitsaworks.com/
             twitter: https://twitter.com/thitsaworks
             logo: thitsaworks-logo.svg
           - name: PaySys Labs
             crunchbase: https://www.crunchbase.com/organization/paysys-labs
-            description: This is the description of item 3
+            description: Paysys Labs offers digital banking, CMS, financial, biometric, wealth, and merchant management system solutions.
             homepage_url: https://www.paysyslabs.com/
             twitter: https://twitter.com/paysyslabs
             logo: paysys-logo.svg
           - name: Sybrin
-            description: This is the description of item 3
-            homepage_url: https://www.paysyslabs.com/
+            crunchbase: https://www.crunchbase.com/organization/sybrin
+            description: Sybrin a global technology company providing payment & information processing solutions for clearing houses, commercial banks & corporates.
+            homepage_url: https://www.sybrin.com/
             logo: sybrin-logo-blue.svg
           - name: WiredIn
+            description: WiredIn is an information technology company that provides software development, web designing, and website development services.
             homepage_url: http://www.wiredin.rw/
             logo: wiredin-logo.svg
             twitter: https://twitter.com/wiredinrw
@@ -55,10 +57,12 @@ categories:
       - name: In Development
         items:
           - name: BCEAO
+            description: BCEAO is an international public institution that issuing institute common to the member states of the West African Monetary Union (WAMU).
             homepage_url: https://www.bceao.int/
             logo: BCEAO-logo.svg
             crunchbase: https://www.crunchbase.com/organization/bceao
           - name: COMESA
+            description: COMESA Institutions enhances regional integration in Eastern and Southern Africa through trade and development.
             homepage_url: https://www.comesa.int
             logo: comesa-logo.svg
             crunchbase: https://www.crunchbase.com/organization/comesa-institutions
@@ -67,6 +71,7 @@ categories:
       - name: Charities
         items:
           - name: Bill & Melinda Gates Foundation
+            description: Bill & Melinda Gates Foundation supports initiatives in education, world health and population, and community giving.
             homepage_url: https://www.gatesfoundation.org
             logo: bill-melinda-gates-foundation.svg
             twitter: https://twitter.com/gatesfoundation
